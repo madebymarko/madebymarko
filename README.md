@@ -1,29 +1,15 @@
 ## Hi there 👋
 
-<!--
-**im-marko/im-marko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ---
 
 ## 📊 GitHub Stats
 
 ### 📈 Streaks
-![GitHub Streak](https://streak-stats.demolab.com/?user=im-marko&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=madebymarko&theme=tokyonight)
 
 ### 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=im-marko&theme=tokyonight&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=madebymarko&theme=tokyonight&margin-w=15)
 
 ---
 
@@ -32,24 +18,24 @@ Here are some ideas to get you started:
 <tr>
 <td>
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=im-marko&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madebymarko&theme=tokyonight)
 
 </td>
 <td>
 
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=im-marko&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=madebymarko&theme=tokyonight)
 
 </td>
 </tr>
 <tr>
 <td>
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=im-marko&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madebymarko&theme=tokyonight)
 
 </td>
 <td>
 
-![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=im-marko&theme=tokyonight)
+![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madebymarko&theme=tokyonight)
 
 </td>
 </tr>
